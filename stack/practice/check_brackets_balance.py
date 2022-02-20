@@ -7,6 +7,8 @@
 
 
 from collections import deque
+
+
 class CheckStack:
 
     def __init__(self):
